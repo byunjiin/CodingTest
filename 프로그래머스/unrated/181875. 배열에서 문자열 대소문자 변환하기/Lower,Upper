@@ -1,0 +1,8 @@
+LowerCase() : 문자열 소문자로 변환
+
+형식 - 배열이름[i].toLowerCase()
+
+
+UpperCase() : 문자열 대문자로 변환
+
+형식 - 배열이름[i].toUpperCase()
