@@ -5,11 +5,11 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 ### -8/21~22
 
-unrated-배열에서 문자열 대소문자 만들기
+unrated-배열에서 문자열 대소문자 만들기 💙[Lower(),Upper()]
 
 unrated-배열 만들기1
 
-unrated-문자열의 앞의 n글자
+unrated-문자열의 앞의 n글자 💙[slice()]
 
 ## 개인
 
