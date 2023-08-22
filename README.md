@@ -21,15 +21,15 @@ lv0-두수의 차
 
 lv0-두수의 곱
 
-lv0-몫 구하기 💙<span style="color:#0000ff">[math.floor()]</span>
+lv0-몫 구하기 💙[math.floor()]
 
 ### -8/22
 
-lv0-두수의 나눗셈 💙<span style="color:#0000ff">[parseInt()]</span>
+lv0-두수의 나눗셈 💙[parseInt()]
 
 lv0-숫자 비교하기 
 
 lv0-분수의 덧셈
 
-lv0-배열 두배 만들기 💙<span style="color:#0000ff">[answer.push()]</span>
+lv0-배열 두배 만들기 💙[answer.push()]
 
