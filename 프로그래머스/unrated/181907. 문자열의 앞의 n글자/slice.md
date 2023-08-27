@@ -8,9 +8,6 @@
 
 ## 배열로 부터 특정 범위를 삭제하거나 새로운 값을 추가 또는 기존 값을 대체할 수 있습니다
 
-참고
-
-https://www.daleseo.com/js-array-slice-splice/
 
 문자열자르기
 
@@ -21,3 +18,5 @@ substr(), substring(), slice()
 https://gent.tistory.com/414
 
 http://blog.302chanwoo.com/2017/08/javascript-array-method/
+
+https://www.daleseo.com/js-array-slice-splice/
