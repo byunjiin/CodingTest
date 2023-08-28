@@ -25,11 +25,11 @@ unrated-배열 만들기2 💙[정규화,test(),spilt(),every()]
 
 unrated-배열 만들기3 💙[flat()]
 
-unrated-배열 만들기4 💙[pop(),push(),shift(),unshift()]
+unrated-배열 만들기4 💙[빈배열,pop(),push(),shift(),unshift()]
 
 ### -8/28~29
 
-unrated-
+unrated-특별한 이차원 배열1 💙[fill(),new Array()생성]
 
 unrated-
 
