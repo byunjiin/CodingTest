@@ -6,6 +6,11 @@
 
 끝-1까지 요소가 출력됨 ( ex)slice(4,9)의 결과 : 4,5,6,7,8 )
 
+## 뒤에서부터 짜르기
+
+![KakaoTalk_20230829_154532799](https://github.com/byunjiin/CodingTest/assets/129635857/9c8dd8f0-a7e8-474d-95ba-aee06a45429a)
+
+
 # splice()
 
 ## 배열로 부터 특정 범위를 삭제하거나 새로운 값을 추가 또는 기존 값을 대체할 수 있습니다
