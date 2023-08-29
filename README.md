@@ -31,9 +31,9 @@ unrated-배열 만들기4 💙[빈배열,pop(),push(),shift(),unshift()]
 
 unrated-특별한 이차원 배열1 💙[fill(),new Array()생성]
 
-unrated-
+unrated-특별한 이차원 배열2
 
-unrated-
+unrated-접미사 배열
 
 ## 개인
 
