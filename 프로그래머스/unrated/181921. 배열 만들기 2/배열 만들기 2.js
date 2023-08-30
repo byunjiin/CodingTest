@@ -1,7 +1,7 @@
 function solution(l, r) {
     const answer = [];
 
-    for (let num = l; num <= r; num++) {
+    for (let num = l; num <= r; num++) { //l이상 r이하 정수
         if(num == 0){ //제한사항이 1부터니깐
             continue
         }
