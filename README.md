@@ -47,7 +47,7 @@ unrated-빈 배열에 추가, 삭제 💙[concat()]
 
 unrated-이차원 배열 대각선 순회 💙[map()]
 
-unrated-
+unrated-배열의 길이를 2의 거듭제곱으로 만들기 💙[거듭제곱]
 
 ### 9/3~4
 
